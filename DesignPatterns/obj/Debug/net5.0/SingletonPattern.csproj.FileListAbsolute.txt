@@ -1,0 +1,15 @@
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonPattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonPattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonPattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonPattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\ref\SingletonPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\SingletonPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\ref\SingletonPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\SingletonPattern.genruntimeconfig.cache

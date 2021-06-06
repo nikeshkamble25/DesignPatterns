@@ -1,0 +1,16 @@
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\FactoryPattern\obj\Debug\net5.0\FactoryPattern.genruntimeconfig.cache
