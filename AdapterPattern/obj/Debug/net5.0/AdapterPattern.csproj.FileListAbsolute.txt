@@ -1,0 +1,16 @@
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\ref\AdapterPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\bin\Debug\net5.0\AdapterPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\ref\AdapterPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\AdapterPattern\obj\Debug\net5.0\AdapterPattern.genruntimeconfig.cache
