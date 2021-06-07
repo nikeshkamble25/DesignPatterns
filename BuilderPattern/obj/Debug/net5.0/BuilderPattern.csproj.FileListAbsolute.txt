@@ -1,0 +1,15 @@
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\ref\BuilderPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\bin\Debug\net5.0\BuilderPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\ref\BuilderPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\BuilderPattern\obj\Debug\net5.0\BuilderPattern.genruntimeconfig.cache

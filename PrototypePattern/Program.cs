@@ -17,10 +17,15 @@ namespace PrototypePattern
             Console.ReadLine();
         }
     }
+    
+    #region Contract
     public interface IClonable<T>
     {
         T Clone();
     }
+    #endregion
+
+    #region ContractImplementation
     public class Employee : IClonable<Employee>
     {
         public int Id { get; set; }
@@ -31,4 +36,5 @@ namespace PrototypePattern
             return (Employee)this.MemberwiseClone();
         }
     }
+    #endregion 
 }
