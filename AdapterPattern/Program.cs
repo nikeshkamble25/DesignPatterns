@@ -14,13 +14,12 @@ namespace AdapterPattern
                 FWDMarketRate = 20,
                 SpotMarketRate = 81
             };
-            //FX Trade 
+            //FX Trade using 
             IFXTrade derivativeAdapter = new DerivativeAdapter(trade);
             Console.WriteLine(derivativeAdapter.MTMRate);
             Console.ReadLine();
         }
     }
-
     public interface IFXTrade
     {
         string CCY1 { get; set; }
@@ -37,14 +36,13 @@ namespace AdapterPattern
         double SpotMarketRate { get; set; }
         double FWDMarketRate { get; set; }
     }
-
     public class FXTrade : IFXTrade
     {
-        public string CCY1 { get; set; }
-        public string CCY2 { get; set; }
-        public double Amount1 { get; set; }
-        public double Amount2 { get; set; }
-        public double MTMRate { get; set; }
+        public virtual string CCY1 { get; set; }
+        public virtual string CCY2 { get; set; }
+        public virtual double Amount1 { get; set; }
+        public virtual double Amount2 { get; set; }
+        public virtual double MTMRate { get; set; }
     }
     public class DerivativeTrade : IDerivativeTrade
     {
@@ -54,7 +52,7 @@ namespace AdapterPattern
         public double SpotMarketRate { get; set; }
         public double FWDMarketRate { get; set; }
     }
-    public class DerivativeAdapter : IFXTrade
+    public class DerivativeAdapter : FXTrade
     {
         private readonly DerivativeTrade trade;
 
@@ -62,7 +60,7 @@ namespace AdapterPattern
         {
             this.trade = trade;
         }
-        public string CCY1
+        public override string CCY1
         {
             get
             {
@@ -73,7 +71,7 @@ namespace AdapterPattern
                 CCY1 = value;
             }
         }
-        public string CCY2
+        public override string CCY2
         {
             get
             {
@@ -84,7 +82,7 @@ namespace AdapterPattern
                 CCY2 = value;
             }
         }
-        public double Amount1
+        public override double Amount1
         {
             get
             {
@@ -95,7 +93,7 @@ namespace AdapterPattern
                 Amount1 = value;
             }
         }
-        public double Amount2
+        public override double Amount2
         {
             get
             {
@@ -106,7 +104,7 @@ namespace AdapterPattern
                 Amount2 = value;
             }
         }
-        public double MTMRate
+        public override double MTMRate
         {
             get
             {

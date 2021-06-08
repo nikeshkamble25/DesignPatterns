@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nikes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nikes\\.nuget\\packages"
+    ]
+  }
+}

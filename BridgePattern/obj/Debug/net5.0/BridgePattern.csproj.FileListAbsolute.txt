@@ -1,0 +1,16 @@
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\ref\BridgePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\bin\Debug\net5.0\BridgePattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.csprojAssemblyReference.cache
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\ref\BridgePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\BridgePattern\obj\Debug\net5.0\BridgePattern.genruntimeconfig.cache
