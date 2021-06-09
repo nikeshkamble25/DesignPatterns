@@ -1,0 +1,16 @@
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\CompositePattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\CompositePattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\CompositePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\ref\CompositePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\bin\Debug\net5.0\CompositePattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.csprojAssemblyReference.cache
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\ref\CompositePattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\CompositePattern\obj\Debug\net5.0\CompositePattern.genruntimeconfig.cache
