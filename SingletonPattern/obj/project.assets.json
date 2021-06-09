@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikes\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern.csproj",
+      "projectUniqueName": "C:\\Users\\nikes\\source\\repos\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
       "projectName": "SingletonPattern",
-      "projectPath": "C:\\Users\\nikes\\source\\repos\\DesignPatterns\\DesignPatterns\\SingletonPattern.csproj",
+      "projectPath": "C:\\Users\\nikes\\source\\repos\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
       "packagesPath": "C:\\Users\\nikes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikes\\source\\repos\\DesignPatterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\Users\\nikes\\source\\repos\\DesignPatterns\\SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikes\\AppData\\Roaming\\NuGet\\NuGet.Config",
