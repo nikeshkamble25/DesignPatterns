@@ -1,0 +1,16 @@
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\IteratorPattern.exe
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\IteratorPattern.deps.json
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\IteratorPattern.runtimeconfig.json
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\IteratorPattern.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\IteratorPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\ref\IteratorPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\bin\Debug\net5.0\IteratorPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.csprojAssemblyReference.cache
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.AssemblyInfo.cs
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\ref\IteratorPattern.dll
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.pdb
+C:\Users\nikes\source\repos\DesignPatterns\IteratorPattern\obj\Debug\net5.0\IteratorPattern.genruntimeconfig.cache

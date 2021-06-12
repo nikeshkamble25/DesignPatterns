@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDesignPattern", "Faca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainofResposnibility", "ChainofResposnibility\ChainofResposnibility.csproj", "{184F3211-C545-4837-98B9-6096606D73E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{DDE937F8-6700-4805-9BB9-D7AAEABC3828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{184F3211-C545-4837-98B9-6096606D73E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{184F3211-C545-4837-98B9-6096606D73E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{184F3211-C545-4837-98B9-6096606D73E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE937F8-6700-4805-9BB9-D7AAEABC3828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE937F8-6700-4805-9BB9-D7AAEABC3828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE937F8-6700-4805-9BB9-D7AAEABC3828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE937F8-6700-4805-9BB9-D7AAEABC3828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
