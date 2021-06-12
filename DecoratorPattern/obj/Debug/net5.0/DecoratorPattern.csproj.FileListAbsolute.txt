@@ -13,3 +13,4 @@ C:\Users\nikes\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\net5.0\Dec
 C:\Users\nikes\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
 C:\Users\nikes\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb
 C:\Users\nikes\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\nikes\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csprojAssemblyReference.cache
